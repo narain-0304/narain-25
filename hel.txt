@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+        <title>content</title>
+
+    </head>
+<body>
+    <h1>Course Structure</h1>
+    <ul>
+    <li>Semester 1
+        <ol>
+    <li>C++</li>
+    <li>ADP</li>
+    </ol>
+    
+        <li>Semester 2</li>
+        <ol>
+        <li>Java</li>
+        <li>DBMS</li>
+        <li>Data Structure</li>
+        </ol>
+    
+    <li>Semester 3</li>
+        <ol>
+            <li>Advanced Java</li>
+            <li>Algorihtms</li>
+            <li>React</li>
+        </ol>
+    
+    <li>Semester 4</li>
+        <ol>
+            <li>RestAPI with spring</li>
+            <li>AWS cloud</li>
+            <li>Selenium Testing</li>
+        </ol>
+    </ul>
+
+</body>
